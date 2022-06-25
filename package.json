@@ -16,6 +16,6 @@
     "aws-sdk": "^2.326.0",
     "mongo": "^0.1.0",
     "mongodb-stitch-browser-sdk": "^4.8.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.7"
   }
 }
